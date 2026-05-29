@@ -1,5 +1,9 @@
-# Seguimiento de Waypoints con Control Pure Pursuit – RaceTrack CARLA
+# PROYECTO FINAL CARLA 
 
+## Autores
+- Camilo Cifuentes
+- Gabriel Duarte
+  
 ## Descripción
 Este proyecto implementa un controlador autónomo de vehículo en CARLA que sigue una trayectoria definida por waypoints utilizando el modelo cinemático de bicicleta y el algoritmo Pure Pursuit.
 
@@ -19,10 +23,6 @@ Está diseñado para el mapa RaceTrack y permite demostrar el comportamiento de 
 - Dependencias: Python 3.6+, CARLA Python API (carla), módulos estándar (math, csv, time, sys).
 
 ---
-
-## Autores
-- Camilo Cifuentes
-- Gabriel Duarte
 
 ---
 
